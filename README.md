@@ -1,1 +1,1 @@
-My first readme
+Adapting to Git commands
